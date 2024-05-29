@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\Activity-8-master2\Activity-8-master\Activity 8\bin\Debug\Activity 8.exe.config
+C:\Users\user\source\repos\Activity-8-master2\Activity-8-master\Activity 8\bin\Debug\Activity 8.exe
+C:\Users\user\source\repos\Activity-8-master2\Activity-8-master\Activity 8\bin\Debug\Activity 8.pdb
+C:\Users\user\source\repos\Activity-8-master2\Activity-8-master\Activity 8\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\source\repos\Activity-8-master2\Activity-8-master\Activity 8\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\source\repos\Activity-8-master2\Activity-8-master\Activity 8\obj\Debug\Activity 8.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Activity-8-master2\Activity-8-master\Activity 8\obj\Debug\Activity_8.employee_hr.resources
+C:\Users\user\source\repos\Activity-8-master2\Activity-8-master\Activity 8\obj\Debug\Activity_8.Properties.Resources.resources
+C:\Users\user\source\repos\Activity-8-master2\Activity-8-master\Activity 8\obj\Debug\Activity 8.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Activity-8-master2\Activity-8-master\Activity 8\obj\Debug\Activity 8.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Activity-8-master2\Activity-8-master\Activity 8\obj\Debug\Activity 8.csproj.Up2Date
+C:\Users\user\source\repos\Activity-8-master2\Activity-8-master\Activity 8\obj\Debug\Activity 8.exe
+C:\Users\user\source\repos\Activity-8-master2\Activity-8-master\Activity 8\obj\Debug\Activity 8.pdb
