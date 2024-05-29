@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: May 29, 2024 at 07:03 PM
+-- Generation Time: May 29, 2024 at 09:41 PM
 -- Server version: 10.4.28-MariaDB
 -- PHP Version: 8.2.4
 
@@ -20,8 +20,6 @@ SET time_zone = "+00:00";
 --
 -- Database: `hr`
 --
-CREATE DATABASE IF NOT EXISTS `hr` DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci;
-USE `hr`;
 
 -- --------------------------------------------------------
 
@@ -48,7 +46,16 @@ INSERT INTO `accounts` (`userid`, `username`, `pass`, `email`, `dept_id`, `sal_i
 (3, 'kim', 'r', 'kim@bicol-u.edu.ph', 5, 5),
 (4, 'aileen', 'a', 'ai@microsoft.com', 1, 1),
 (5, 'javan', 'j', 'javan@bicol-u.edu.ph', 3, 3),
-(6, 'jarvis', 'b', 'jarvis@gmail.com', 5, 5);
+(6, 'jarvis', 'b', 'jarvis@gmail.com', 5, 5),
+(12, 'ally', 'pass', 'ally@gmail.com', 1, 1),
+(13, 'vivian', 'viv', 'vivian@gmail.com', 3, 3),
+(15, 'nherlhin', '1234', 'email@gmail.com', 5, 5),
+(16, 'kent', 'arjay', 'kent@gmail.com', 1, 1),
+(17, 'maureen', 'mau', 'mau@gmail.com', 5, 5),
+(18, 'dio', 'dio', 'dio@gmail.com', 5, 5),
+(20, 'dio', 'dio', 'dio@gmail', 3, 3),
+(21, 'amir', 'seby', 'amir@gmail.com', 5, 5),
+(22, 'seby', 'amir', 'seby@gmail.com', 3, 3);
 
 -- --------------------------------------------------------
 
@@ -122,7 +129,7 @@ ALTER TABLE `deptsal`
 -- AUTO_INCREMENT for table `accounts`
 --
 ALTER TABLE `accounts`
-  MODIFY `userid` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=9;
+  MODIFY `userid` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=23;
 
 --
 -- AUTO_INCREMENT for table `department`
